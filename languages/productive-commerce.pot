@@ -1,0 +1,5648 @@
+# Copyright (C) 2024 Productive Commerce
+# This file is distributed under the same license as the Productive Commerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Productive Commerce 1.1.18\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/productive-"
+"commerce\n"
+"POT-Creation-Date: 2024-10-07 02:28:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/common/options/global/global-settings-admin.php:12
+#: admin/common/options/global/global-settings-admin.php:13
+msgid "Productive Global Settings"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:14
+msgid "Global Settings"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:16
+msgid "Grids and Breakpoints"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:17
+msgid "PopUps"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:18
+msgid "Sliders"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:19
+msgid "Sharing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:20
+msgid "Other Settings"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:35
+msgid "Productive Minds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:42
+msgid "Productive Product"
+msgstr ""
+
+#. #-#-#-#-#  productive-commerce.pot (Productive Commerce 1.1.18)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/common/options/global/global-settings-admin.php:49
+msgid "Productive Commerce"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:56
+msgid "Productive Forms"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:63
+msgid "Productive Style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:70
+msgid "Productive Demo Importer"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:111
+#: extra/elementor/productive-elementor.php:22
+#: extra/gutenberg/productive-gutenberg.php:23
+#: includes/standard/gutenberg/productive-gutenberg.php:23
+msgid "ProductiveMinds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:112
+msgid "ProductiveMinds Patterns."
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:218
+msgid "Productive Commerce, A Required Plugin for This Pattern, Is Missing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:221
+msgid "To access this pattern, first activate the Productive Commerce plugin: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:224
+#: admin/common/options/global/global-settings-admin.php:243
+#: admin/common/options/global/global-settings-admin.php:262
+msgid "Pattern: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:228
+#: admin/common/options/global/global-settings-admin.php:247
+#: admin/common/options/global/global-settings-admin.php:266
+msgid "Pattern Demo: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:237
+msgid "Productive Forms, A Required Plugin for This Pattern, Is Missing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:240
+msgid "To access this pattern, first activate the Productive Forms plugin: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:256
+msgid "Productive Style, A Required Plugin for This Pattern, Is Missing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:259
+msgid "To access this pattern, first activate the Productive Style plugin: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:298
+#: admin/standard/options/settings.php:98 extra/admin/options/settings.php:111
+#: extra/includes/productive-list-table.php:319
+msgid "You do not have permission to access this resource."
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:309
+#: admin/standard/options/settings.php:109 extra/admin/options/settings.php:125
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:728
+msgid "Activate"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:729
+msgid "De-Activate"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:735
+msgid "Enable"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:736
+#: admin/common/options/global/global-settings-admin.php:1160
+msgid "Disable"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:742
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:86
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:98
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:110
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:22
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:25
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:125
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:152
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:164
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:22
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:25
+msgid "Show"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:743
+#: admin/common/options/global/global-settings-admin.php:770
+#: admin/common/options/global/global-settings-admin.php:786
+#: admin/common/options/global/global-settings-admin.php:795
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:87
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:99
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:111
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:23
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:24
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:23
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:126
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:153
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:165
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:23
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:24
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:23
+#: includes/common/productiveminds-commerce-options.php:97
+#: includes/common/productiveminds-commerce-options.php:106
+#: includes/common/productiveminds-commerce-options.php:123
+#: includes/common/productiveminds-commerce-options.php:134
+#: includes/common/productiveminds-commerce-options.php:145
+msgid "Hide"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:749
+#: admin/common/options/global/partials/part-global-fields-sharing.php:281
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:25
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:39
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:61
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:74
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:140
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:153
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:166
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:179
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:192
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:205
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:37
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:50
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:25
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:39
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:61
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:74
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:87
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:100
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:113
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:186
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:216
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:233
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:247
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:278
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:292
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:306
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:320
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:37
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:58
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:71
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:84
+msgid "Yes"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:750
+#: admin/common/options/global/global-settings-admin.php:803
+#: admin/common/options/global/partials/part-global-fields-sharing.php:284
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:24
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:38
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:62
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:75
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:141
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:154
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:167
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:180
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:193
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:206
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:38
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:51
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:24
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:38
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:62
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:75
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:88
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:101
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:114
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:185
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:215
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:232
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:246
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:277
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:291
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:305
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:319
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:38
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:59
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:72
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:85
+#: includes/common/productiveminds-commerce-options.php:116
+msgid "No"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:756
+msgid "True"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:757
+msgid "False"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:763
+msgid "Start"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:764
+msgid "Stop"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:771
+#: admin/common/options/global/global-settings-admin.php:812
+#: admin/common/options/global/global-settings-admin.php:1024
+#: admin/common/options/global/global-settings-admin.php:1045
+#: admin/common/options/global/global-settings-admin.php:1054
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:262
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:156
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:307
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1099
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:262
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:536
+#: includes/common/productiveminds-commerce-options.php:54
+msgid "Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:772
+#: admin/common/options/global/global-settings-admin.php:813
+#: admin/common/options/global/global-settings-admin.php:1025
+#: admin/common/options/global/global-settings-admin.php:1046
+#: admin/common/options/global/global-settings-admin.php:1055
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:270
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:164
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:315
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1107
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:270
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:544
+#: includes/common/productiveminds-commerce-options.php:55
+msgid "Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:778
+#: admin/common/options/global/global-settings-admin.php:1127
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:58
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:128
+#: includes/common/productiveminds-commerce-options.php:84
+msgid "None"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:779
+msgid "Image"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:780
+msgid "Icon"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:787
+msgid "Text"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:788
+msgid "Link, Open In The Same Window"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:789
+msgid "Link, Open In New Window"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:796
+#: admin/common/options/global/global-settings-admin.php:804
+msgid "Yes, Open In The Same Window"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:797
+#: admin/common/options/global/global-settings-admin.php:805
+msgid "Yes, Open In New Window"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:811
+#: admin/common/options/global/global-settings-admin.php:838
+#: admin/common/options/global/global-settings-admin.php:857
+#: admin/common/options/global/global-settings-admin.php:892
+#: admin/common/options/global/global-settings-admin.php:903
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:266
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:160
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:311
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1103
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:266
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:540
+msgid "Center"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:819
+#: admin/common/options/global/global-settings-admin.php:837
+#: admin/common/options/global/global-settings-admin.php:935
+#: admin/common/options/global/global-settings-admin.php:957
+#: admin/common/options/global/global-settings-admin.php:965
+#: admin/common/options/global/global-settings-admin.php:973
+#: admin/common/options/global/global-settings-admin.php:983
+msgid "Default"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:820
+msgid "Default, with Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:821
+msgid "Default, with Border"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:822
+msgid "Rounded Corner, with Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:823
+msgid "Rounded Corner, with Border"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:824
+msgid "Ellipse, with Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:825
+msgid "Ellipse, with Border"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:826
+msgid "Default, with Background (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:827
+msgid "Default, with Border (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:828
+msgid "Rounded Corner, with Background (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:829
+msgid "Rounded Corner, with Border (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:830
+msgid "Ellipse, with Background (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:831
+msgid "Ellipse, with Border (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:839
+#: admin/common/options/global/global-settings-admin.php:858
+msgid "Start (Left)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:840
+#: admin/common/options/global/global-settings-admin.php:859
+msgid "End (Right)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:841
+msgid "Justify"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:847
+#: admin/common/options/global/global-settings-admin.php:869
+#: admin/common/options/global/global-settings-admin.php:880
+#: admin/common/options/global/global-settings-admin.php:1043
+#: admin/common/options/global/global-settings-admin.php:1052
+#: includes/common/productiveminds-commerce-options.php:52
+msgid "Top"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:848
+#: admin/common/options/global/global-settings-admin.php:868
+#: admin/common/options/global/global-settings-admin.php:879
+msgid "Middle"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:849
+#: admin/common/options/global/global-settings-admin.php:870
+#: admin/common/options/global/global-settings-admin.php:881
+#: admin/common/options/global/global-settings-admin.php:1044
+#: admin/common/options/global/global-settings-admin.php:1053
+#: includes/common/productiveminds-commerce-options.php:53
+msgid "Bottom"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:850
+#: admin/common/options/global/global-settings-admin.php:871
+#: admin/common/options/global/global-settings-admin.php:882
+#: admin/common/options/global/global-settings-admin.php:895
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:311
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:311
+msgid "Stretch"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:851
+#: admin/common/options/global/global-settings-admin.php:861
+#: admin/common/options/global/global-settings-admin.php:885
+#: admin/common/options/global/global-settings-admin.php:908
+msgid "Space Evenly"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:860
+#: admin/common/options/global/global-settings-admin.php:884
+#: admin/common/options/global/global-settings-admin.php:907
+msgid "Space Around"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:862
+#: admin/common/options/global/global-settings-admin.php:883
+#: admin/common/options/global/global-settings-admin.php:906
+msgid "Space Between"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:872
+msgid "Baseline"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:873
+#: admin/common/options/global/global-settings-admin.php:886
+#: admin/common/options/global/global-settings-admin.php:897
+#: admin/common/options/global/global-settings-admin.php:909
+msgid "Initial"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:893
+#: admin/common/options/global/global-settings-admin.php:904
+msgid "Left (Start)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:894
+#: admin/common/options/global/global-settings-admin.php:905
+msgid "Right (End)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:896
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:556
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:310
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:882
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:310
+msgid "Normal"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:915
+msgid "None (no color scheme)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:916
+msgid "Light Color Scheme"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:917
+msgid "Dark Color Scheme"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:918
+#: admin/common/options/global/global-settings-admin.php:929
+msgid "Theme&#39;s Color Scheme"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:924
+msgid "No (no color scheme)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:925
+msgid "Light Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:926
+msgid "Dark Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:927
+msgid "Light Background, Dark Content"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:928
+msgid "Dark Background, Light Content"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:936
+msgid "Narrow"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:937
+msgid "Narrow, Align Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:938
+msgid "Narrow, Align Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:939
+msgid "Thin"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:940
+msgid "Thin, Align Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:941
+msgid "Thin, Align Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:942
+msgid "Extra Thin"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:943
+msgid "Extra Thin, Align Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:944
+msgid "Extra Thin, Align Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:945
+msgid "Micro Thin"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:946
+msgid "Micro Thin, Align Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:947
+msgid "Micro Thin, Align Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:948
+msgid "Wide"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:949
+msgid "Full Width (with padding)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:950
+msgid "Full Width (100%)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:956
+msgid "No Spacing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:958
+msgid "Small"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:959
+msgid "Large"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:966
+msgid "Wide Page Width"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:967
+msgid "Full Page Width"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:974
+#: admin/common/options/global/global-settings-admin.php:984
+msgid "Sharp Corner"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:975
+#: admin/common/options/global/global-settings-admin.php:985
+msgid "Rounded Corner"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:976
+#: admin/common/options/global/global-settings-admin.php:986
+#: admin/common/options/global/global-settings-admin.php:1429
+msgid "Ellipse"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:977
+#: admin/common/options/global/global-settings-admin.php:987
+#: includes/common/productiveminds-commerce-options.php:26
+msgid "Oval"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:993
+msgid "90 : 10"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:994
+msgid "85 : 15"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:995
+msgid "80 : 20"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:996
+msgid "75 : 25"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:997
+msgid "70 : 30"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:998
+msgid "65 : 35"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:999
+msgid "60 : 40"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1000
+msgid "55 : 45"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1001
+msgid "50 : 50"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1002
+msgid "45 : 55"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1003
+msgid "40 : 60"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1004
+msgid "35 : 65"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1005
+msgid "30 : 70"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1006
+msgid "25 : 75"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1007
+msgid "20 : 80"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1008
+msgid "15 : 85"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1009
+msgid "10 : 90"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1012
+msgid "Full Width"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1019
+#: includes/common/productiveminds-commerce-options.php:124
+msgid "Top Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1020
+#: includes/common/productiveminds-commerce-options.php:125
+msgid "Top Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1021
+#: includes/common/productiveminds-commerce-options.php:126
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1022
+#: includes/common/productiveminds-commerce-options.php:127
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1023
+msgid "Central"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1031
+#: includes/common/productiveminds-commerce-options.php:40
+msgid "Ease"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1032
+#: includes/common/productiveminds-commerce-options.php:41
+msgid "Ease In"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1033
+#: includes/common/productiveminds-commerce-options.php:42
+msgid "Ease Out"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1034
+#: includes/common/productiveminds-commerce-options.php:43
+msgid "Ease In/Out"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1035
+#: includes/common/productiveminds-commerce-options.php:44
+msgid "Linear"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1036
+#: includes/common/productiveminds-commerce-options.php:45
+msgid "Cubic Bezier Style 1"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1037
+#: includes/common/productiveminds-commerce-options.php:46
+msgid "Cubic Bezier Style 2"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1061
+msgid "Default Design"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1062
+#: admin/common/options/global/global-settings-admin.php:1075
+msgid "Design 01"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1063
+#: admin/common/options/global/global-settings-admin.php:1076
+msgid "Design 02"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1064
+#: admin/common/options/global/global-settings-admin.php:1077
+msgid "Design 03"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1065
+#: admin/common/options/global/global-settings-admin.php:1078
+msgid "Design 04"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1066
+msgid "Design 05"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1067
+msgid "Design 06"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1068
+msgid "Design 07"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1069
+msgid "Design 08"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1084
+#: admin/common/options/global/global-settings-admin.php:1140
+msgid "1 - Default"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1085
+#: admin/common/options/global/global-settings-admin.php:1142
+msgid "2"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1086
+#: admin/common/options/global/global-settings-admin.php:1144
+msgid "3"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1087
+#: admin/common/options/global/global-settings-admin.php:1146
+msgid "4"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1088
+#: admin/common/options/global/global-settings-admin.php:1148
+msgid "5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1089
+#: admin/common/options/global/global-settings-admin.php:1150
+msgid "6"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1090
+#: admin/common/options/global/global-settings-admin.php:1152
+msgid "7"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1091
+#: admin/common/options/global/global-settings-admin.php:1154
+msgid "8"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1097
+#: includes/common/productiveminds-commerce-options.php:61
+msgid "Slide"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1098
+#: includes/common/productiveminds-commerce-options.php:62
+msgid "Fade"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1099
+#: includes/common/productiveminds-commerce-options.php:63
+msgid "Flip"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1100
+#: includes/common/productiveminds-commerce-options.php:64
+msgid "Cards"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1106
+#: includes/common/productiveminds-commerce-options.php:70
+msgid "1 second"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1107
+#: includes/common/productiveminds-commerce-options.php:71
+msgid "2 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1108
+#: includes/common/productiveminds-commerce-options.php:72
+msgid "3 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1109
+#: includes/common/productiveminds-commerce-options.php:73
+msgid "4 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1110
+#: includes/common/productiveminds-commerce-options.php:74
+msgid "5 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1111
+#: includes/common/productiveminds-commerce-options.php:75
+msgid "7.5 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1112
+#: includes/common/productiveminds-commerce-options.php:76
+msgid "10 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1113
+#: includes/common/productiveminds-commerce-options.php:77
+msgid "15 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1114
+#: includes/common/productiveminds-commerce-options.php:78
+msgid "20 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1120
+#: admin/common/options/partials/part-section-integration.php:281
+msgid "Horizontal"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1128
+#: includes/common/productiveminds-commerce-options.php:85
+msgid "Touch Swipe Only"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1129
+#: includes/common/productiveminds-commerce-options.php:86
+msgid "Pagination Dots Only"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1130
+#: includes/common/productiveminds-commerce-options.php:87
+msgid "Prev/Next Arrows Only"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1131
+#: includes/common/productiveminds-commerce-options.php:88
+msgid "Dots &#38; Arrows"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1132
+#: includes/common/productiveminds-commerce-options.php:89
+msgid "Touch Swipe &#38; Arrows"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1133
+#: includes/common/productiveminds-commerce-options.php:90
+msgid "Touch Swipe &#38; Dots"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1134
+#: includes/common/productiveminds-commerce-options.php:91
+msgid "Allow All Three Actions"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1141
+msgid "1.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1143
+msgid "2.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1145
+msgid "3.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1147
+msgid "4.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1149
+msgid "5.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1151
+msgid "6.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1153
+msgid "7.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1161
+#: admin/common/options/global/partials/part-global-fields-slider.php:275
+msgid "Mobile (portrait)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1162
+#: admin/common/options/global/partials/part-global-fields-grid.php:528
+msgid "Mobile (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1163
+#: admin/common/options/global/partials/part-global-fields-slider.php:249
+msgid "Tablet (portrait)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1164
+#: admin/common/options/global/partials/part-global-fields-grid.php:433
+msgid "Tablet (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1165
+#: admin/common/options/global/partials/part-global-fields-grid.php:385
+#: admin/common/options/global/partials/part-global-fields-slider.php:223
+msgid "Desktop"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1166
+#: admin/common/options/global/partials/part-global-fields-slider.php:210
+msgid "Widescreen"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1172
+msgid "0.1 (transparent)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1173
+msgid "0.2"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1174
+msgid "0.3"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1175
+msgid "0.4"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1176
+msgid "0.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1177
+msgid "0.6"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1178
+msgid "0.7"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1179
+msgid "0.8"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1180
+msgid "0.9"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1181
+msgid "1.0 (opaque)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1187
+msgid "h1 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1188
+msgid "h2 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1189
+msgid "h3 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1190
+msgid "h4 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1191
+msgid "h5 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1192
+msgid "h6 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1198
+msgid "h1 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1199
+msgid "h2 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1200
+msgid "h3 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1201
+msgid "h4 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1202
+msgid "h5 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1203
+msgid "h6 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1204
+msgid "div html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1205
+msgid "span html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1317
+msgid "All"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1334
+msgid "Newest First"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1335
+msgid "Oldest First"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1336
+msgid "My Order"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1337
+msgid "Title (a-z)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1338
+msgid "Title (z-a)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1427
+#: includes/common/productiveminds-commerce-options.php:24
+msgid "Sharp Corners"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1428
+#: includes/common/productiveminds-commerce-options.php:25
+msgid "Round Corners"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1435
+#: admin/common/options/global/global-settings-admin.php:1448
+msgid "Circle"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1436
+#: admin/common/options/global/global-settings-admin.php:1449
+msgid "Square"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1437
+msgid "Rectangle"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1438
+msgid "Hybrid"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1441
+msgid "None (hide pagination controls)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1450
+msgid "Transparent background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1453
+msgid "None (hide nav controls)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1537
+msgid "Close"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1981
+msgid "Page Content Navigation "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1995
+msgid "Previous"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:2000
+msgid "Next"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:2017
+msgid "Page "
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:11
+msgid "Breakpoints and Gap Settings for Grids"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:12
+msgid ""
+"These setting are relevant to all grids that are generated by our plugins "
+"and themes."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:40
+msgid "Row Gap (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:53
+msgid "Column Gap (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:80
+msgid "Widescreen Breakpoint"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:93
+#: admin/common/options/global/partials/part-global-fields-grid.php:134
+#: admin/common/options/global/partials/part-global-fields-grid.php:174
+#: admin/common/options/global/partials/part-global-fields-grid.php:214
+#: admin/common/options/global/partials/part-global-fields-grid.php:255
+#: admin/common/options/global/partials/part-global-fields-grid.php:295
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-settings.php:21
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:357
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-grid.php:58
+msgid "Columns per row"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:121
+msgid "Desktop Breakpoint"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:161
+#: admin/common/options/global/partials/part-global-fields-grid.php:242
+msgid "Tablet (Lanscape) Breakpoint"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:201
+#: admin/common/options/global/partials/part-global-fields-grid.php:282
+msgid "Tablet (Portrait) Breakpoint"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:305
+msgid "Grid Gaps"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:337
+msgid "Widescreens"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:373
+#: admin/common/options/global/partials/part-global-fields-grid.php:421
+msgid "Columns per row in a grid on Widescreens"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:469
+msgid "Columns per row in a grid on Tablet (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:481
+msgid "Tablet (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:517
+msgid "Columns per row in a grid on Tablet (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:564
+msgid "Columns per row in a grid on Mobile (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:576
+msgid "Mobile (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:612
+msgid "Columns per row in a grid on Mobile (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:11
+msgid "Other Global Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:12
+msgid "These setting are relevant across all our plugins and themes"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:40
+msgid "Loading Animation Colour 1"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:53
+msgid "Loading Animation Colour 2"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:66
+msgid "Loading Animation Wheel Diameter (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:79
+msgid "Loading Animation Wheel Thickness (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:90
+msgid "Loading Animation Wheel Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:105
+msgid "First color of the loading animation wheel."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:121
+msgid "Second color of the loading animation wheel"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:135
+msgid "The size of the loading animation wheel (default is: 25)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:149
+msgid "The thickness of the loading animation wheel (default is: 7)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:11
+msgid "Global PopUp Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:12
+msgid ""
+"These setting are relevant to all PopUps that are generated by our plugins "
+"and themes"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:27
+msgid "Popup Transition Easing Mode"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:41
+msgid "Popup Transition IN/OUT Direction"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:54
+msgid "Popup Header and Footer Background Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:67
+msgid "Popup Header and Footer Text Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:80
+msgid "Popup Header and Footer Hyperlinks Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:93
+msgid "Popup Header and Footer Hyperlinks Colour (on hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:106
+msgid "Popup Close Button Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:119
+msgid "Popup Close Button Background"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:132
+msgid "Popup Close Button Colour (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:145
+msgid "Popup Close Button Background (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:158
+#: extra/admin/options/partials/section-quickview.php:235
+msgid "Popup Minimum width (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:171
+#: extra/admin/options/partials/section-quickview.php:248
+msgid "Popup Max width (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:184
+#: extra/admin/options/partials/section-quickview.php:261
+msgid "Popup Full Screen Mode (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:197
+msgid "Close Popup with ESC Key?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:210
+msgid "Click Elsewhere to Close Popup?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:223
+msgid "Popup Background Opacity"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:236
+msgid "Use Styles from the Theme?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:266
+msgid "The easing mode for entrance and exit of Popup."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:293
+msgid "The direction of transition for entrance and exit of Popup"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:309
+msgid "Background colour for popup header and footer background."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:325
+msgid "Colour of textual content in popup header and footer"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:341
+msgid "Colour of hyperlink(s) in popup header and footer"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:357
+msgid "Colour of hyperlink(s) in popup header and footer on hover"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:373
+msgid "Close button colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:389
+msgid "Close button background colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:405
+msgid "Close button colour (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:421
+msgid "Close button background colour (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:457
+#: extra/admin/options/partials/section-quickview.php:538
+msgid ""
+"Popuup will fill the screen both vertically and horizontally, at this screen "
+"size - set to 0 to disable this feature."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:471
+msgid "Allow users to close popup by pressing escape key on their keyboard?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:485
+msgid "Allow users to close popup by clicking outside the popup modal?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:511
+msgid "Popup background transparency (opacity)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:525
+msgid ""
+"Ignore settings on this page and use theme css styles instead. Effective "
+"only when using one of our themes. "
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:11
+msgid "Social Media Sharing Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:12
+msgid ""
+"These social media sharing options are efective across all our plugins and "
+"themes"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:39
+msgid "Icons Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:52
+msgid "Icons Background Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:65
+msgid "Icons Background Colour (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:78
+msgid "Use Platform Background and White Icon "
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:91
+msgid "Location of the \"Share On:\" Copy"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:104
+msgid "Icons Size (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:117
+msgid "Icons Spacing (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:144
+msgid "Enable Facebook Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:157
+msgid "Enable X (Twitter) Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:170
+msgid "Enable PInterest Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:196
+msgid "Enable WhatsApp Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:209
+msgid "Enable Email Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:219
+msgid "Icon Colours and Dimensions"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:234
+msgid ""
+"The main colour of each icon. Leave empty to use each social media icon "
+"original colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:250
+msgid "Colour of the background surrounding each icon"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:266
+msgid "Colour of the background surrounding each icon when hovering over it"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:288
+msgid ""
+"Highlight social media icons using brand logo colors around a white icon."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:303
+msgid "Above Icons"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:306
+msgid "Inline with Icons"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:310
+msgid "Place the \"Share on:\" copy above or inline with social media icons"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:324
+msgid "The size of each icon (default is: 20)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:338
+msgid "The spacing between the icons (default is: 2)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:348
+msgid "Social Media Platforms Availability"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:11
+msgid "Global Slider Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:12
+msgid ""
+"These setting are relevant to all sliders that are generated by our plugins "
+"and themes."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:26
+#: extra/admin/options/partials/section-quickview.php:155
+msgid "Slides Transition style"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:39
+#: extra/admin/options/partials/section-quickview.php:142
+msgid "Play slides automatically?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:52
+msgid "Play slides in Loop?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:65
+msgid "Pause on MouseOver?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:79
+msgid "Enable Lazy Loading?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:92
+#: extra/admin/options/partials/section-quickview.php:168
+msgid "Delays between slides transition"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:105
+msgid "Transition Direction"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:118
+#: extra/admin/options/partials/section-quickview.php:181
+msgid "Slides Transition Controls"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:131
+msgid "Slider Controls Primary Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:144
+msgid "Slider Controls Secondary Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:157
+msgid "Slider Bottom Pagination Controls Shape"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:170
+msgid "Slider Side Navigation Controls Shape"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:183
+msgid "Slider Nav Controls Padding"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:236
+msgid "Tablet (landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:262
+msgid "Mobile (landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:308
+#: extra/admin/options/partials/section-quickview.php:408
+msgid "The style of slide transition"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:322
+msgid "Automatically play slides."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:336
+msgid "Play slides in infinite loop"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:350
+#: extra/admin/options/partials/section-quickview.php:474
+msgid "Pause slide autoplay when user hovers on slide"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:364
+msgid "Enable lazy loading"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:390
+#: extra/admin/options/partials/section-quickview.php:434
+msgid "The delay between slide transitions."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:416
+msgid "Transitions direction - only horizontal supported."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:442
+#: extra/admin/options/partials/section-quickview.php:460
+msgid "Which slides transition control(s) are users allowed?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:458
+#: admin/common/options/global/partials/part-global-fields-slider.php:474
+msgid "Effective on both side navigation and bottom pagination buttons."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:500
+msgid "Pagination controls buttons shape (bottom dots)s."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:526
+msgid "Slider navigation control buttons shape (left and right side buttons)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:549
+msgid "Slides Per View Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:574
+msgid "Slides Per View on Widescreen"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:600
+msgid "Slides Per View on Desktop"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:626
+msgid "Slides Per View on Tablet (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:652
+msgid "Slides Per View on Tablet (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:678
+msgid "Slides Per View on Mobile (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:704
+msgid "Slides Per View on Mobile (Portrait)"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:35
+#: global-settings.php:114
+msgid "General Settings"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:36
+msgid "These settings affect multiple features of "
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:50
+msgid "Preserve data, if plugin is uninstalled?"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:63
+msgid "Product page and Catalog Icon Size"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:76
+msgid "Position of &#39;Add to&#39; Buttons in Product Page"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:89
+msgid "Position of &#39;Add to&#39; Icons in Catalog"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:102
+msgid "Direction of &#39;Add to&#39; Icons in Catalog"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:115
+msgid "Hide Icons, Show Only on Hover Over"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:128
+msgid "Always Show Icons in Small Screens"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:142
+msgid "&#39;Add to&#39; icon Background Colour"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:155
+msgid "&#39;Add to&#39; icon Background Shape"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:184
+msgid "Popup Icon Size"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:204
+msgid ""
+"Keep plugin settings and data (do not delete), if this plugin is uninstalled."
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:219
+msgid "Add icon dimension without any unit (default = 16)"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:235
+msgid "Above &#39;Add to Cart&#39; Button"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:238
+msgid "Below &#39;Add to Cart&#39; Button"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:242
+msgid ""
+"Where to display the &#39;Add to Wishlist&#39; and &#39;Add to "
+"Comparison&#39; buttons on Product page."
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:258
+msgid "Align to Left Side"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:261
+msgid "Align to the Right Side"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:265
+msgid ""
+"Whether to display the icons on the right or left side in Catalog and Shop "
+"Page."
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:284
+msgid "Vertical"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:288
+msgid "Direction of the icons in Catalog and Shop Page."
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:303
+msgid ""
+"In Catalog, hide &#39;Add to&#39; (and Quick View, if applicable) icons "
+"until user hovers over each product"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:317
+msgid ""
+"Always show icons in small screen (even if set to initially hide above)."
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:329
+msgid "Settings for Popups (Modals)"
+msgstr ""
+
+#: admin/common/options/partials/part-section-integration.php:342
+msgid "Add icon dimension without any unit (default = 50)"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:30
+msgid "Discover "
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:38
+msgid "Key Functionalities"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:43
+msgid ""
+"This plugin enhances WooCommerce functionality, improving shopping journey, "
+"user-experience and efficiency."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:44
+msgid "Users can effortlessly add products to their Wishlist."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:45
+msgid "It enables side-by-side product comparisons."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:46
+msgid "View product details and add items to cart quickly from catalog pages."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:47
+msgid "Access to Mini Cart & Mini Wishlist popups is available site-wide."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:48
+msgid "Users can easily share Wishlist and Comparison pages on social media."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:49
+msgid ""
+"Offers extensive branding options including Elementor widgets that works "
+"with both free Elementor and Elementor Pro."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:50
+msgid "Admins can effectively manage website user&#39;s Wishlists."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:68
+msgid "See Free vs Pro"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:79
+msgid "Capture Your Website Visitors&#39;s Attention with Elementor Widgets"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:93
+msgid ""
+"Create and design uniquely branded Wishlist pages and Comparison pages with "
+"Elementor widgets, and tweak every detail with either Elementor Free or "
+"Elementor Pro."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:94
+msgid ""
+"Display users&#39;s Wishlists on any part of your website – pages, sidebars, "
+"header, footer, etc."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:95
+msgid ""
+"Display users&#39;s Comparison lists on any part of your website – pages, "
+"sidebars, header, footer, etc."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:96
+msgid ""
+"Choose from multiple designs that can be further customized to match your "
+"unique branding."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:97
+msgid ""
+"<b>Six Elementor starter templates are included in the Pro version</b>, "
+"featuring three designs for Wishlist pages and three designs for Comparison "
+"pages."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:106
+msgid "Upgrade to the Pro version to unlock all available features."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:123
+msgid "Leave a Review"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:125
+msgid ""
+"Share Your Insights! Get featured on our website and help enhance our effort."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:136
+#: admin/standard/options/settings.php:253 extra/admin/options/settings.php:321
+msgid "Kindly submit a review"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:148
+msgid "Premium Support"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:150
+msgid ""
+"Submit a support ticket with ease to receive prompt premium assistance with "
+"Pro"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:154
+msgid "Access Support"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:166
+#: admin/standard/options/settings.php:133 extra/admin/options/settings.php:149
+msgid "Documentation"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:168
+msgid "Seeking user guides for configuring this plugin on your website?"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:172
+msgid "Access documentation"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:185
+msgid "Our Plugins"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:199
+msgid "Web pages and content building tools..."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:206
+#: admin/common/options/partials/section-about.php:236
+#: admin/common/options/partials/section-about.php:266
+msgid "Install plugin"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:210
+#: admin/common/options/partials/section-about.php:240
+#: admin/common/options/partials/section-about.php:270
+msgid "Customize plugin"
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:229
+msgid "Wishlist, Compare, Quick View, MiniCart..."
+msgstr ""
+
+#: admin/common/options/partials/section-about.php:259
+msgid "Contact forms, Newsletter opt-ins..."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:48
+msgid ""
+" plugin is unable to locate the designated page for Product Comparison. "
+"Please "
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:49
+msgid "go to the Comparison settings page"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:50
+msgid ""
+" and choose your preferred option for \"Customer Comparison Page\". Then, "
+"navigate to \"Settings\" > \"Permalinks\" and Save Changes."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:59
+msgid "Comparison Settings"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:62
+msgid "Configure site-wide Comparison settings."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:76
+msgid "Enable Comparison on this Website?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:89
+msgid "Comparison List Limit"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:102
+msgid "Action After Reaching Comparison List Limit"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:115
+msgid "&#39;Add to Compare&#39; Icon and Text Colour"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:128
+msgid "&#39;Add to Compare&#39; Icon and Text Colour (on hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:156
+msgid "Header Compare Icon"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:169
+msgid "Header Compare Icon Size"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:182
+msgid "Header Compare Copy"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:195
+#: admin/common/options/partials/section-minicart.php:115
+#: admin/common/options/partials/section-wishlist.php:208
+msgid "Text and Icon Color"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:208
+#: admin/common/options/partials/section-minicart.php:128
+#: admin/common/options/partials/section-wishlist.php:221
+msgid "Text and Icon Color (on Hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:221
+msgid "Show Compare Items Count"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:234
+#: admin/common/options/partials/section-minicart.php:154
+#: admin/common/options/partials/section-wishlist.php:247
+msgid "Items Count Color"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:247
+#: admin/common/options/partials/section-minicart.php:167
+#: admin/common/options/partials/section-wishlist.php:260
+msgid "Items Count Background Color"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:275
+msgid "Enable Comparison on Product Page?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:288
+msgid "&#39;Add to Compare&#39; button Format"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:301
+msgid "&#39;Add to Compare&#39; Text"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:314
+msgid "&#39;Add to Compare&#39; Text Size"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:327
+msgid "&#39;Add to Compare&#39; Button Background"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:353
+msgid "Enable Comparison on Catalog Page?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:380
+msgid "Customer Comparison Page"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:393
+msgid "Show Comparison in My Account?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:406
+msgid "Enable Summary Section?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:419
+#: admin/common/options/partials/section-wishlist.php:457
+msgid "Summary Section background Color"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:432
+#: admin/common/options/partials/section-wishlist.php:470
+msgid "Show Product Count?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:445
+msgid "Show Clear Comparison Hyperlink?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:458
+msgid "Comparable Features Title background Color"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:471
+#: admin/common/options/partials/section-wishlist.php:535
+msgid "Show Product Title?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:484
+#: admin/common/options/partials/section-wishlist.php:548
+msgid "Show Add to Cart Buttons for Each Product?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:497
+msgid "After adding a product to Cart, remove it from Comparison?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:510
+msgid "Show Remove from Compare for Each Product?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:523
+#: admin/common/options/partials/section-wishlist.php:587
+msgid "Show Product Price?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:536
+#: admin/common/options/partials/section-wishlist.php:600
+msgid "Show Sales Banner?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:549
+#: admin/common/options/partials/section-wishlist.php:613
+msgid "Show Stock (Availability)?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:562
+#: admin/common/options/partials/section-wishlist.php:626
+msgid "Show Product Ratings?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:575
+#: admin/common/options/partials/section-wishlist.php:639
+msgid "Show QuickView Icon?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:588
+msgid "Show Product Sku"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:601
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:190
+msgid "Show Short Description"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:614
+msgid "Show Attributes"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:627
+msgid "Other Compare Icons Colour"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:640
+msgid "Other Compare Icons Colour (on hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:653
+msgid "Other Compare Icons Size"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:666
+#: admin/common/options/partials/section-wishlist.php:717
+msgid "Show Share On Social Media?"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:691
+msgid "Enable Comparison on this website."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:705
+msgid ""
+"Maximum number of products that users can compare simultaneously. This "
+"number is also the number of columns in Comparison page."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:720
+msgid "Remove Product from Comparison List"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:723
+#: admin/common/options/partials/section-wishlist.php:799
+msgid "Alert User Only"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:727
+msgid ""
+"What behaviour do you expect, if a user attempt to add more products to "
+"compare than the above \"Comparison Limit\""
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:766
+msgid "Website Header Button (Compare & Mini-Compare Button)"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:791
+#: admin/common/options/partials/section-minicart.php:675
+#: admin/common/options/partials/section-minicart.php:1030
+#: admin/common/options/partials/section-wishlist.php:867
+msgid ""
+"MiniCart icon displays beside the Title (this icon will be hidden, if the "
+"title is set to be hidden)"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:805
+#: admin/common/options/partials/section-minicart.php:689
+#: admin/common/options/partials/section-wishlist.php:881
+msgid "Size of the header Cart icon (default is: 25)."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:819
+#: admin/common/options/partials/section-minicart.php:703
+#: admin/common/options/partials/section-wishlist.php:895
+msgid ""
+"Displays next to the Header button Icon (leave this field empty to hide text)"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:871
+msgid "Set to yes to display the number of items being Compared"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:911
+#: admin/common/options/partials/section-wishlist.php:1013
+msgid "Product Details Page Settings"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:924
+msgid "Enable Comparison on Product Page."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:938
+msgid "Copy for product page button (e.g Add to Compare)"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:952
+msgid ""
+"&#39;Add to Compare&#39; Text Size on product page, without any unit "
+"(default = 0.9)"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:992
+msgid ""
+"Information that displays on the &#39;Add to Compare&#39; button (on product "
+"page)."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1004
+#: admin/common/options/partials/section-wishlist.php:1107
+msgid "Catalog and Product Archive Settings"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1017
+msgid "Enable Comparison on Catalog and Shop Page."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1028
+msgid "Customer Comparison Page Settings"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1038
+#: admin/common/options/partials/section-wishlist.php:1143
+#: extra/includes/my-account/my-account-user-compare.php:277
+#: extra/includes/my-account/my-account-user-compare.php:336
+#: extra/includes/my-account/my-account-user-wishlist.php:283
+#: extra/includes/my-account/my-account-user-wishlist.php:342
+msgid "Select an Option"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1045
+msgid ""
+"Select the Comparison page. If page does not exist, create a page, then add "
+"shortcode = [productive_compare] or add the \"Comparison List\" Elementor "
+"widget to the page."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1047
+#: admin/common/options/partials/section-wishlist.php:1154
+msgid ""
+"After changing this option, please go to Settings => Permlinks. Then click "
+"\"Save Changes\"."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1062
+msgid "Hide Comparison Menu in My Account"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1065
+msgid "Show Comparison Menu in My Account"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1069
+msgid ""
+"Option to show or hide comparison menu in \"My Account\" navigation menu."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1084
+#: admin/common/options/partials/section-wishlist.php:1307
+msgid "Hide Summary"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1087
+#: admin/common/options/partials/section-wishlist.php:1310
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:24
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:24
+msgid "Above Products"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1090
+#: admin/common/options/partials/section-wishlist.php:1313
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:25
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:25
+msgid "Below Products"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1094
+msgid ""
+"The \"Summary Section\" contains product count and \"Clear Comparison\" "
+"button. You can hide it or show it above or below the products."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1133
+#: admin/common/options/partials/section-wishlist.php:1356
+msgid "Show or hide product count in the summary section."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1159
+msgid "Show or hide \"Clear Comparison \" hyperlink in the summary section."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1175
+msgid ""
+"This is to highlight each comparable feature so users can expand to see "
+"corresponding values."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1201
+#: admin/common/options/partials/section-wishlist.php:1464
+msgid "Show or hide product title for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1227
+#: admin/common/options/partials/section-wishlist.php:1490
+msgid "Show or hide \"Add to Cart\" button for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1253
+msgid ""
+"Specify the action after a user adds a product to the Cart. Options: \"No - "
+"do nothing\", \"Ask the Website User\", or automatically remove the product "
+"from the Comparison."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1279
+msgid "Show or hide \"Remove from Compare\" button for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1305
+#: admin/common/options/partials/section-wishlist.php:1568
+msgid "Show or hide product price for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1331
+#: admin/common/options/partials/section-wishlist.php:1594
+msgid ""
+"Show or hide the sales banner for each product, when product is on sale."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1357
+#: admin/common/options/partials/section-wishlist.php:1620
+msgid "Show or hide stock (availability) for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1383
+#: admin/common/options/partials/section-wishlist.php:1646
+msgid "Show or hide product ratings for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1409
+msgid ""
+"Show or hide QuickView icon for each product (note that Quick View is only "
+"effective in Pro version)."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1435
+msgid "Show or hide date product was added to compare for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1461
+#: admin/common/options/partials/section-compare.php:1487
+#: admin/common/options/partials/section-wishlist.php:1724
+msgid ""
+"Show or hide a divider line just before the \"Date added\" info for each "
+"product."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1503
+msgid "E.g, remove from comparison icon"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1530
+msgid ""
+"The size of other icons on Comparison Page, such as the remove icon (default "
+"is: 20)."
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1556
+#: admin/common/options/partials/section-wishlist.php:1793
+msgid "Show or hide social media sharing"
+msgstr ""
+
+#: admin/common/options/partials/section-compare.php:1619
+#: admin/common/options/partials/section-compare.php:1832
+msgid "Add to Compare"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:33
+msgid "Mini-Cart and Website Header Cart Button Settings"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:35
+msgid "Website header cart button and Mini-Cart options"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:49
+msgid "Enable Mini-Cart Popup?"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:76
+msgid "Header Cart Icon"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:89
+msgid "Header Cart Icon Size"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:102
+msgid "Header Cart Copy"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:141
+msgid "Cart Items Count Position"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:180
+msgid "Sub Total Position"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:209
+msgid "MiniCart Popup Background"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:222
+msgid "MiniCart Popup Position"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:235
+msgid "Display MiniCart Popup in Full Browser Height"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:248
+msgid "MiniCart Popup Minimum Width (px)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:261
+msgid "MiniCart Popup Max Width (px)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:274
+msgid "Show MiniCart After Product Added to Cart"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:303
+msgid "MiniCart Title Location"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:316
+msgid "MiniCart Title Copy"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:329
+msgid "MiniCart Title and Icon  Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:342
+#: extra/admin/options/partials/section-minicompare.php:205
+#: extra/admin/options/partials/section-miniwishlist.php:205
+msgid "Show Title Icon"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:355
+#: extra/admin/options/partials/section-minicompare.php:218
+#: extra/admin/options/partials/section-miniwishlist.php:218
+msgid "Title Icon Size (px)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:383
+#: extra/admin/options/partials/section-minicompare.php:246
+#: extra/admin/options/partials/section-miniwishlist.php:246
+msgid "Show Sku (availability)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:396
+msgid "MiniCart General Content Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:409
+msgid "MiniCart Product Name Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:422
+msgid "MiniCart Product Name Color (on Hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:451
+msgid "MiniCart Delete Button Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:464
+msgid "MiniCart Delete Button Color (on Hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:477
+msgid "MiniCart Delete Button Background Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:490
+msgid "MiniCart Delete Button Background Color (on Hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:519
+msgid "MiniCart Subtotal Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:548
+msgid "Go to Baskect and Checkout Button Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:561
+msgid "Go to Baskect and Checkout Button Color (on Hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:574
+msgid "Go to Baskect Button Background Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:587
+msgid "Go to Baskect Button Background Color (on Hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:600
+msgid "Go to Checkout Button Background Color"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:613
+msgid "Go to Checkout Button Background Color (on Hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:637
+msgid "Enable or disable Mini-Cart popup on this website."
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:650
+msgid "Website Header Button (Cart & MiniCart Button)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:755
+msgid "Set to yes to display the number of items in cart"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:807
+msgid "Set to yes to display Cart subtotal"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:821
+msgid "MiniCart Popup"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:859
+msgid "MiniCart Popup Position on the Screen"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:885
+msgid ""
+"Display MiniCart Popup in full browser height (if set to No, MIniCart will "
+"grow with cart content)"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:911
+msgid ""
+"Display MiniCart Popup after a product has been successfully added to cart."
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:925
+msgid "Minimum width of MiniCart Popup (default is: 350)."
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:939
+msgid "Max width of MiniCart Popup (default is: 400)."
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:952
+msgid "MiniCart Popup Title"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:977
+msgid "Decide where to show the MiniCart Popup Title"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:991
+msgid "Copy for the MiniCart Title"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:1044
+#: extra/admin/options/partials/section-minicompare.php:707
+#: extra/admin/options/partials/section-miniwishlist.php:707
+msgid "Max header icon size (default is: 25)."
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:1057
+msgid "MiniCart Content"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:1082
+msgid "Displays product sku in minicart"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:1134
+msgid "MiniCart Delete Button"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:1198
+msgid "MiniCart SubTotal"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:1223
+msgid "MiniCart Go to Basket and Checkout Buttons"
+msgstr ""
+
+#: admin/common/options/partials/section-minicart.php:1358
+msgid "Cart Summary"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:49
+msgid " plugin is unable to locate the designated page for Wishlists. Please "
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:50
+msgid "go to the Wishlist settings page"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:51
+msgid ""
+" and choose your preferred option for \"Customer Wishlist Page\". Then, "
+"navigate to \"Settings\" > \"Permalinks\" and Save Changes."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:59
+msgid "Wishlist Settings"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:61
+msgid "Configure site-wide Wishlist settings."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:75
+msgid "Enable Wishlist on this Website?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:88
+msgid "Alternative Name for Wishlist?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:101
+msgid "Allow Guest Access?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:114
+msgid "Adding the Same Product to Wishlist More than Once"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:127
+msgid "&#39;Add to Wishlist&#39; Icon and Text Colour"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:140
+msgid "&#39;Add to Wishlist&#39; Icon and Text Colour (on hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:169
+msgid "Header Wishlist Icon"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:182
+msgid "Header Wishlist Icon Size"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:195
+msgid "Header Wishlist Copy"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:234
+msgid "Wishlist Items Count Position"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:301
+msgid "Enable Wishlist on Product Details Page?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:314
+msgid "&#39;Add to Wishlist&#39; button Format"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:327
+msgid "&#39;Add to Wishlist&#39; Text"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:340
+msgid "&#39;Add to Wishlist&#39; Text Size"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:353
+msgid "&#39;Add to Wishlist&#39; Button Background"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:379
+msgid "Enable Wishlist on Catalog Page?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:405
+msgid "Customer Wishlist Page"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:418
+msgid "Wishlist Page Layout (Public Page)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:431
+msgid "Wishlist Page Layout (My Account Page)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:444
+msgid "Show Summary Section?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:483
+msgid "Show Add All to Cart Button?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:496
+msgid "Show Clear Wishlist Hyperlink?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:509
+msgid "Individual Product Box background Color"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:522
+msgid "Number of columns per row"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:561
+msgid "After adding a product to Cart, remove it from Wishlist?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:574
+msgid "Show Remove from Wishlist for Each Product?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:652
+msgid "Show Date Product Added to Wishlist?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:665
+msgid "Show Divider Line Before Date Added?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:678
+msgid "Other Wishlist Icon Colour"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:691
+msgid "Other Wishlist Icon Colour (on hover)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:704
+msgid "Other Wishlist Icons Size"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:742
+msgid "Enable Wishlist on this website."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:756
+msgid ""
+"Display an alternative name for Wishlist to website users (e.g Favourites or "
+"Saved Items)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:771
+msgid "No Guest Access"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:774
+msgid "Allow Guests, with Warning"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:777
+msgid "Allow Guests, no Warning"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:781
+msgid "How can guests use the Wishlist?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:796
+msgid "Remove Product from Wishlist"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:803
+msgid ""
+"What behaviour do you expect, when a user attempts to add a product already "
+"in wishlist?"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:842
+msgid "Website Header Button (Wishlist & Mini-Wishlist Button)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:947
+msgid "Set to yes to display the number of items in Wishlist"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:999
+msgid "Set to yes to display Wishlist subtotal"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1026
+msgid "Enable Wishlist on Product Page."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1053
+msgid ""
+"Information that displays on the &#39;Add to Wishlist&#39; button (on "
+"product page)."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1068
+msgid "Copy for product page button (e.g Add to Wishlist)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1082
+msgid ""
+"&#39;Add to Wishlist&#39; Text Size on product page, without any unit "
+"(default = 0.9)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1120
+msgid "Enable Wishlist on Catalog and Product Archive."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1133
+msgid "Wishlist Page Settings"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1150
+msgid ""
+"Select the Wishlist page. If page does not exist, create a page, then add "
+"shortcode = [productive_wishlist]."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1152
+msgid ""
+"If using the Pro version, you can build the page with the included "
+"\"Wishlist List\" Elementor widget."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1171
+#: admin/common/options/partials/section-wishlist.php:1199
+#: admin/common/options/partials/section-wishlist.php:1240
+#: admin/common/options/partials/section-wishlist.php:1271
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:25
+msgid "Grid"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1174
+#: admin/common/options/partials/section-wishlist.php:1202
+#: admin/common/options/partials/section-wishlist.php:1243
+#: admin/common/options/partials/section-wishlist.php:1274
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:27
+msgid "Table"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1177
+#: admin/common/options/partials/section-wishlist.php:1246
+msgid "Slider (Pro version only)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1180
+#: admin/common/options/partials/section-wishlist.php:1249
+msgid "List (Pro version only)"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1184
+msgid "Select a layout for the publicly accessible Wishlisted page."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1205
+#: admin/common/options/partials/section-wishlist.php:1277
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:24
+msgid "Slider"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1208
+#: admin/common/options/partials/section-wishlist.php:1280
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:24
+msgid "List"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1212
+msgid "Select a layout for the publicly accessible Wishlist page."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1215
+#: admin/common/options/partials/section-wishlist.php:1287
+msgid "Next, "
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1216
+#: admin/common/options/partials/section-wishlist.php:1288
+msgid "access the plugin Customizers options here"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1217
+#: admin/common/options/partials/section-wishlist.php:1289
+msgid ""
+" or utilize the Elementor widgets within the plugin. Additionally, make use "
+"of the provided Elementor starter templates, "
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1218
+#: admin/common/options/partials/section-wishlist.php:1290
+msgid "available for download here,"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1219
+#: admin/common/options/partials/section-wishlist.php:1291
+msgid " to further refine your Wishlist page."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1237
+#: admin/common/options/partials/section-wishlist.php:1268
+msgid "Hide Wishlist Menu in My Account"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1253
+#: admin/common/options/partials/section-wishlist.php:1284
+msgid "Select a layout for Wishlist page in \"My Account\" navigation menu."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1317
+msgid ""
+"The \"Summary Section\" contains product count and \"Add All to Cart\" "
+"button. You can hide it or show it above or below the Wishlist products."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1382
+msgid "Show or hide \"Add All to Cart\" button in the summary section."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1408
+msgid "Show or hide \"Clear Wishlist \" hyperlink in the summary section."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1424
+msgid "Leave empty to use default background color set in your theme."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1438
+msgid ""
+"In grid view, the number of products to display in each row on Wishlist Page."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1516
+msgid ""
+"Specify the action after a user adds a product to the Cart. Options: \"No - "
+"do nothing\", \"Ask the Website User\", or automatically remove the product "
+"from the Wishlist."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1542
+msgid "Show or hide \"Remove from Wishlist\" button for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1672
+msgid ""
+"Show or hide QuickView icon for each product (note that Quick View is "
+"available only in Pro version)."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1698
+msgid "Show or hide date product was added to wishlist for each product."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1740
+msgid "E.g, remove from Wishlist icon"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1767
+msgid ""
+"The size of other icons on Wishlist Page, such as the remove icon (default "
+"is: 20)."
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1851
+#: admin/common/options/partials/section-wishlist.php:2103
+#: admin/common/options/partials/section-wishlist.php:2108
+#: extra/includes/productive-list-table.php:35 global-settings.php:107
+msgid "Wishlist"
+msgstr ""
+
+#: admin/common/options/partials/section-wishlist.php:1865
+#: admin/common/options/partials/section-wishlist.php:2119
+msgid "Add to Wishlist"
+msgstr ""
+
+#: admin/standard/options/partials/section-go-pro.php:1211
+msgid "Download the Pro Version"
+msgstr ""
+
+#: admin/standard/options/partials/section-go-pro.php:1225
+msgid "More about Pro"
+msgstr ""
+
+#: admin/standard/options/settings.php:23 extra/admin/options/settings.php:29
+msgid " Admin Settings and Options"
+msgstr ""
+
+#: admin/standard/options/settings.php:134 extra/admin/options/settings.php:150
+msgid "Get Support"
+msgstr ""
+
+#: admin/standard/options/settings.php:236 extra/admin/options/settings.php:305
+msgid "The requested item is not found!"
+msgstr ""
+
+#: admin/standard/options/settings.php:250
+msgid ""
+"Support our efforts, interact with fellow users, and contribute to enhancing "
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:40
+msgid "License activation was successful."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:44
+msgid "License activation was unsuccessful: "
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:55
+msgid "License status could not be verified at this time."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:60
+msgid "License validation was successful."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:69
+msgid "License validation was unsuccessful."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:70
+msgid "Reason: "
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:83
+msgid ""
+"The license status cannot be confirmed at the moment. Please attempt again "
+"later."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:97
+msgid "License Status: "
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:139
+msgid "Renew your license now"
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:150
+msgid "Do you wish to deactivate this license?"
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:153
+msgid ""
+"You might need to deactivate your license, especially when migrating this "
+"website to a different server. "
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:157
+msgid ""
+"Be aware that upon deactivation, this website will no longer be licensed."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:161
+msgid ""
+"To reactivate the license, either on this server or another, you must "
+"undergo the activation process again."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:166
+msgid "Click below to deactivate the license for this site."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:177
+msgid "Deactivate License"
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:186
+#: extra/admin/options/partials/section-extra.php:202
+msgid "Activate License"
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:189
+msgid "The email address used for your order typically serves as your license."
+msgstr ""
+
+#: extra/admin/options/partials/section-extra.php:190
+msgid ""
+"To activate your license on this website, please input that email address "
+"below."
+msgstr ""
+
+#: extra/admin/options/partials/section-integration.php:39
+msgid ""
+"In Catalog, highlight background of the &#39;Add to Wishlist&#39;, &#39;Add "
+"to Compare&#39;, and &#39;Quick View&#39; icons."
+msgstr ""
+
+#: extra/admin/options/partials/section-integration.php:55
+msgid "No Background"
+msgstr ""
+
+#: extra/admin/options/partials/section-integration.php:69
+msgid ""
+"In Catalog, set the shape of the highlighted background (of the &#39;Add to "
+"Wishlist&#39;, &#39;Add to Compare&#39;, and &#39;Quick View&#39; icons)."
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:33
+msgid "Mini-Comparison Settings"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:35
+msgid "Configure site-wide Mini-Comparison settings."
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:62
+msgid "Enable Mini-Comparison on this Website?"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:75
+msgid "Mini-Comparison Popup Background"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:88
+msgid "Mini-Comparison Popup Position"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:101
+msgid "Display Mini-Comparison Popup in Full Browser Height"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:114
+msgid "Mini-Comparison Popup Minimum Width (px)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:127
+msgid "Mini-Comparison Popup Max Width (px)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:140
+msgid "Show Mini-Comparison After Product Added?"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:166
+msgid "Mini-Comparison Title Location"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:179
+msgid "Mini-Comparison Title Copy"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:192
+msgid "Mini-Comparison Title and Icon Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:259
+msgid "Mini-Comparison General Content Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:272
+msgid "Mini-Comparison Product Name Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:285
+msgid "Mini-Comparison Product Name Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:314
+msgid "Mini-Comparison Delete Button Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:327
+msgid "Mini-Comparison Delete Button Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:340
+msgid "Mini-Comparison Delete Button Background Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:353
+msgid "Mini-Comparison Delete Button Background Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:382
+msgid "Mini-Comparison Subtotal Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:411
+msgid "Go to Comparison Page Button Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:424
+msgid "Go to Comparison Page Button Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:437
+msgid "Go to Comparison Page Button Background Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:450
+msgid "Go to Comparison Page Button Background Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:471
+msgid "Enable Mini-Comparison on this website."
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:484
+msgid "Mini-Comparison Activation and Popup"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:522
+msgid "Mini-Comparison Popup Position on the Screen"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:548
+msgid ""
+"Display Mini-Comparison Popup in full browser height (if set to No, MIniCart "
+"will grow with cart content)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:574
+msgid ""
+"Display Mini-Comparison Popup after a product has been successfully added to "
+"cart."
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:588
+msgid "Minimum width of Mini-Comparison Popup (default is: 400)."
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:602
+msgid "Max width of Mini-Comparison Popup (default is: 500)."
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:615
+msgid "Decide where to show the Mini-Comparison Popup Title"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:640
+msgid "Show Mini-Comparison Title"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:654
+msgid "Copy for the Mini-Comparison Title"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:693
+msgid ""
+"Mini-Comparison icon displays beside the Title (this icon will be hidden, if "
+"the title is set to be hidden)"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:720
+msgid "Mini-Comparison Content"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:745
+msgid "Displays product sku in minicompare"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:797
+msgid "Mini-Comparison Delete Button"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:861
+msgid "Mini-Comparison SubTotal"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:886
+msgid "Go to Comparison Page Button"
+msgstr ""
+
+#: extra/admin/options/partials/section-minicompare.php:986
+msgid "Comparison Summary"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:33
+msgid "Mini-Wishlist Settings"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:35
+msgid "Configure site-wide Mini-Wishlist settings."
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:62
+msgid "Enable Mini-Wishlist on this Website?"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:75
+msgid "Mini-Wishlist Popup Background"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:88
+msgid "Mini-Wishlist Popup Position"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:101
+msgid "Display Mini-Wishlist Popup in Full Browser Height"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:114
+msgid "Mini-Wishlist Popup Minimum Width (px)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:127
+msgid "Mini-Wishlist Popup Max Width (px)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:140
+msgid "Show Mini-Wishlist After Product Added?"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:166
+msgid "Mini-Wishlist Title Location"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:179
+msgid "Mini-Wishlist Title Copy"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:192
+msgid "Mini-Wishlist Title and Icon Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:259
+msgid "Mini-Wishlist General Content Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:272
+msgid "Mini-Wishlist Product Name Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:285
+msgid "Mini-Wishlist Product Name Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:314
+msgid "Mini-Wishlist Delete Button Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:327
+msgid "Mini-Wishlist Delete Button Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:340
+msgid "Mini-Wishlist Delete Button Background Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:353
+msgid "Mini-Wishlist Delete Button Background Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:382
+msgid "Mini-Wishlist Subtotal Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:411
+msgid "Go to Wishlist Page Button Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:424
+msgid "Go to Wishlist Page Button Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:437
+msgid "Go to Wishlist Page Button Background Color"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:450
+msgid "Go to Wishlist Page Button Background Color (on Hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:471
+msgid "Enable Mini-Wishlist on this website."
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:484
+msgid "Mini-Wishlist Activation and Popup"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:522
+msgid "Mini-Wishlist Popup Position on the Screen"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:548
+msgid ""
+"Display Mini-Wishlist Popup in full browser height (if set to No, MIniCart "
+"will grow with cart content)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:574
+msgid ""
+"Display Mini-Wishlist Popup after a product has been successfully added to "
+"cart."
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:588
+msgid "Minimum width of Mini-Wishlist Popup (default is: 400)."
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:602
+msgid "Max width of Mini-Wishlist Popup (default is: 500)."
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:615
+msgid "Decide where to show the Mini-Wishlist Popup Title"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:640
+msgid "Show Mini-Wishlist Title"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:654
+msgid "Copy for the Mini-Wishlist Title"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:693
+msgid ""
+"Mini-Wishlist icon displays beside the Title (this icon will be hidden, if "
+"the title is set to be hidden)"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:720
+msgid "Mini-Wishlist Content"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:745
+msgid "Displays product sku in miniwishlist"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:797
+msgid "Mini-Wishlist Delete Button"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:861
+msgid "Mini-Wishlist SubTotal"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:886
+msgid "Go to Wishlist Page Button"
+msgstr ""
+
+#: extra/admin/options/partials/section-miniwishlist.php:986
+msgid "Wishlist Summary"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:33
+msgid "Product Quick View Settings"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:35
+msgid "Configure site-wide Quick View settings."
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:49
+msgid "Enable Quickview on this Website?"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:62
+msgid "&#39;Add to Quick View&#39; Icon and Text Colour"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:75
+msgid "&#39;Add to Quick View&#39; Icon and Text Colour (on hover)"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:88
+msgid "Show the Visit Product Page Link in Quick View Popup?"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:101
+msgid "Visit Product Page Text"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:129
+msgid "Enable Product gallery slides?"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:194
+msgid "Pause Slide play on MouseOver?"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:207
+msgid "Slider Buttons Colour"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:282
+msgid "Enable Product QuickView on this website."
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:324
+msgid ""
+"Show the link to go to product details page on Quick View popup (this option "
+"also controls visibility of the Quick View Popup Footer)"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:338
+msgid "Visit Product Page text"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:355
+msgid "Settings for Product Gallery Slider"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:368
+msgid ""
+"Enable or disable product gallery sliders (only applicable to products with "
+"gallery images)"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:382
+msgid "Automatically play product gallery slides."
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:503
+msgid "Settings for Quick View Popup"
+msgstr ""
+
+#: extra/admin/options/partials/section-quickview.php:579
+#: extra/admin/options/partials/section-quickview.php:656
+msgid "Visit Product Page"
+msgstr ""
+
+#: extra/admin/options/partials/section-wishlist-extra.php:61
+msgid "Extra Wishlist Options"
+msgstr ""
+
+#: extra/admin/options/partials/section-wishlist-extra.php:63
+msgid "Extra Wishlist options description."
+msgstr ""
+
+#: extra/admin/options/partials/section-wishlist-extra.php:77
+msgid "Extra Wishlist options copy."
+msgstr ""
+
+#: extra/admin/options/settings.php:242
+msgid "Active Wishlists "
+msgstr ""
+
+#: extra/admin/options/settings.php:318
+msgid "Share Your Insights! Get featured on our website and help enhance "
+msgstr ""
+
+#: extra/elementor/productive-elementor.php:40
+msgid "Productive Dynamic Tags"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:13
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:225
+msgid "Upper Section"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:22
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:22
+msgid "Show Thumbnail"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:36
+msgid "Show Wishlist & Quick View Buttons"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:59
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:59
+msgid "Show Product Title"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:72
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:85
+msgid "Show OnSale Banner"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:84
+msgid "Show Add to Cart Button"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:96
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:150
+msgid "Show Remove Icon"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:108
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:162
+msgid "Show Quantity Field"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:130
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:689
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:439
+msgid "Attributes Sections"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:138
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:72
+msgid "Show Price"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:151
+msgid "Show Sku"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:164
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:98
+msgid "Show Stock Availability"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:177
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:111
+msgid "Show Ratings"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:203
+msgid "Show Product Attributes"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:234
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:243
+msgid "Product Thumbnail"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:245
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:427
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:646
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:938
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:403
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:483
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:267
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:92
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:254
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:532
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:979
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:463
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:267
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:126
+msgid "Border Radius"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:271
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:280
+msgid "padding"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:315
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:323
+msgid "Product Title"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:323
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:384
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:468
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:706
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:816
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:882
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:92
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:220
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:331
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:489
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:635
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:718
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:816
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1036
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:92
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:220
+msgid "Color"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:334
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:479
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:342
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1047
+msgid "Color (on Hover)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:354
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:415
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:659
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:926
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:391
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:471
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:255
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:104
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:362
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:520
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1004
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:450
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:255
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:138
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:296
+msgid "Padding"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:376
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:481
+msgid "On Sale Banner"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:395
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:103
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:500
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:103
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:263
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:344
+msgid "Background Color"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:439
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:490
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:672
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:379
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:459
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:279
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:116
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:180
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:459
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:544
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:605
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:688
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:836
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:992
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1060
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:279
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:150
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:215
+msgid "Margin"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:460
+msgid "Remove Button"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:502
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1072
+msgid "Size (px)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:532
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:858
+msgid "Add to Cart Button"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:563
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:597
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:169
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:217
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:889
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:923
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:204
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:252
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:333
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:419
+msgid "Text Color"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:575
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:611
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:904
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:966
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:901
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:937
+msgid "Background"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:590
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:916
+msgid "On Hover"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:625
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:951
+msgid "Hover Animation"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:699
+msgid "General Content"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:746
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:407
+msgid "Product Price"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:754
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:415
+msgid "Color (Price)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:776
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:437
+msgid "Color (Sale)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:808
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:627
+msgid "Ratings"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:827
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:646
+msgid "Size"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:865
+msgid "Clickable Blocks"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:893
+msgid "Color (on open)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:915
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:976
+msgid "Background (on Open)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:958
+msgid "Toggle Icon Container"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:987
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:210
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:238
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:256
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:210
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:272
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:485
+msgid "Width"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:1016
+msgid "Vertical Spacing"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:1052
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:52
+msgid "Toggle Icon"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:1070
+msgid "Icon Color"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-content.php:1080
+msgid "Icon Color (on Open)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:12
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:103
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:12
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:103
+msgid "Header"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:20
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:20
+msgid "Show Header"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:32
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:32
+msgid "Switch the toggle to show the header"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:54
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:54
+msgid "HTML Tag for Title"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:76
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:76
+msgid "Intro"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:79
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:79
+msgid "Section overview"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:80
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:80
+msgid "Section overview here"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:115
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:115
+msgid "Title Color"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:135
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:135
+msgid "Title Margin"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:147
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:147
+msgid "Title Padding"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:166
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:166
+msgid "Intro Color"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:186
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:186
+msgid "Intro Padding"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:238
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:269
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:284
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:238
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:303
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:513
+msgid "Max Width (px)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:258
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:303
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:258
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:532
+msgid "Alignment"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-header.php:288
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:292
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:331
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-header.php:288
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:326
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:560
+msgid "Container Justification"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:13
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:318
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:13
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:353
+msgid "Layout"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:22
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:22
+msgid "Format"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:34
+msgid "Toggle Accordion"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:36
+msgid "Toggle Selected Only"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:37
+msgid "Reset, then Toggle Selected"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:38
+msgid "Disable Toggle"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:54
+msgid "Angle"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:55
+msgid "Arrow"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:56
+msgid "Plus / Minus"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:79
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:120
+msgid "Media Box"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:91
+msgid "Media Size"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:123
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:132
+msgid "Media Box Padding"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:144
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:153
+msgid "Content Box"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:152
+msgid "Text Alignment"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:179
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:213
+msgid "Minimum Height"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:227
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:261
+msgid "Widget Container"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:326
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:78
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:392
+msgid "Column Gap"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-layout.php:362
+msgid "Upper Section (image, title etc)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-settings.php:13
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:349
+#: includes/start.php:236
+msgid "Settings"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-settings.php:22
+msgid "Max allowed products in compare is: "
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-settings.php:22
+msgid ". To change this value, go to compare options page in admin"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-settings.php:33
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:371
+msgid "Unique ID to use as CSS ID for the section"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:13
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:73
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:13
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:73
+msgid "Social Media Share"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:22
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:22
+msgid "Show Share Buttons"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:34
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:34
+msgid "Share on copy"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:37
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:38
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:37
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:38
+msgid "Share on:"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:52
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:52
+msgid "Share on copy location"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:54
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:54
+msgid "Above"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:55
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:55
+msgid "Inline"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:84
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:84
+msgid "Icon Styles"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:114
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:114
+msgid "Background Color (on hover)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:126
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:126
+msgid "Icon Size (px)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:149
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:149
+msgid "Icon Spacing (px)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:172
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:172
+msgid "Icon Padding"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:184
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:184
+msgid "Icon Border Radius"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:203
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:203
+msgid "Share On Copy Styles"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:238
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:238
+msgid "Section Styles"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-share.php:308
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-share.php:308
+msgid "Icons Distribution"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:12
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:70
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:12
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:104
+msgid "Summary"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:21
+msgid "Show Compare Summary"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:35
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:56
+msgid "Show Product Count"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:48
+msgid "Show Clear Comparison"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:152
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:187
+msgid "Product Count"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:200
+msgid "Clear Comparison Hyperlink"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:228
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:274
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:430
+msgid "Text Color (on Hover)"
+msgstr ""
+
+#: extra/elementor/widgets/compare/partials/partial-productive-elementor-widget-summary.php:248
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:477
+msgid "Block Alignments"
+msgstr ""
+
+#: extra/elementor/widgets/compare/productive-elementor-widget-compare-list.php:31
+msgid "Comparison Page"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:13
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:234
+#: extra/includes/my-account/my-account-user-compare.php:194
+#: extra/includes/my-account/my-account-user-wishlist.php:196
+msgid "Content"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:36
+msgid "Show Compare & Quick View Buttons"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:123
+msgid "Show Buy Button"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:183
+msgid "Show Date Added"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:195
+msgid "Date added copy"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:198
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:199
+#: includes/common/render/productive-render-compare-list.php:43
+#: includes/common/render/productive-render-wishlist-list.php:45
+msgid "Added on:"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:213
+msgid "Show Divider"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:374
+msgid "Title Max Width (px)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:566
+msgid "Stock Details"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:574
+msgid "Color (in stock)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:585
+msgid "Color (out of stock)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:675
+msgid "Ratings Alignment"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:710
+msgid "Divider"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:729
+msgid "Opacity"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:752
+msgid "Height (px)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:775
+msgid "Vertical Spacing (px)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:808
+msgid "Date Added"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1021
+msgid "Action Icons (remove etc)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1022
+msgid "Remove Icon etc"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-content.php:1095
+msgid "NavIcon Alignment"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:26
+msgid "List (top down)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:46
+msgid "Media Column Width"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:162
+msgid "Content Vertical Alignment"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:176
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:196
+msgid "Content Box Padding"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-layout.php:421
+msgid "Row gap"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:13
+msgid "Slider Options"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:26
+msgid "Slides per View"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:27
+msgid "# of visible slides"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:47
+msgid "Slider Nav Controls Options"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:56
+msgid "Nav Controls Position"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:59
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:129
+msgid "Inside Content (overlay)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:60
+msgid "Beside Content"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:61
+msgid "Above Content"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:62
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:130
+msgid "Below Content"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:73
+msgid "Nav Controls Shape"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:83
+msgid "Padding (px)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:117
+msgid "Pagination Controls Options"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:126
+msgid "Position"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:141
+msgid "Shape"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:157
+msgid "Controls Color Options"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:165
+msgid "Secondary Color"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:179
+msgid "Primary Color"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:200
+msgid "Other Options"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:209
+msgid "Slides Transition Effect"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:219
+msgid "Slides Direction"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:230
+msgid "Auto Play Slides"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:244
+msgid "Pause on Hover"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:261
+msgid "Slides Transitions Delay"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:275
+msgid "Play Slides in Loop"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:289
+msgid "Simulate Touch on Desktop"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:303
+msgid "Enable Lazy Loading"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-settings.php:317
+msgid "Enable Cursor Effect"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:21
+msgid "Show Wishlist Summary"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:35
+msgid "Show Subtotal"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:69
+msgid "Show Add all to Cart"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:82
+msgid "Show Clear Wishlist"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:235
+msgid "Add all to Cart Button"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:285
+msgid "Background Color (on Hover)"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:316
+msgid "Add all to Cart Quantity"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:355
+msgid "Border Color"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:366
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:441
+msgid "Spacing"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/partials/partial-productive-elementor-widget-summary.php:402
+msgid "Clear Wishlist Hyperlink"
+msgstr ""
+
+#: extra/elementor/widgets/wishlist/productive-elementor-widget-wishlist-list.php:31
+msgid "Wishlist Page"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-common.php:29
+msgid " (plugin)"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-common.php:30
+msgid "Options for Productive Commerce - Wishlist, Compare etc"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:32
+msgid "Comparison Page Options"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:57
+msgid "Comparison Title Html Tag"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:82
+msgid "Comparison Page top description"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:83
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:83
+msgid "Leave empty to hide section"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:104
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:104
+msgid "Summmary Section Background"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:127
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:127
+msgid "Max Width of Summmary Section (px)"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:141
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:237
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:141
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:237
+msgid "Added on: "
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:155
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:177
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:155
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:177
+msgid "Date Added Copy"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:163
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:163
+#: includes/common/render/productive-render-compare-list.php:44
+#: includes/common/render/productive-render-wishlist-list.php:46
+msgid "Share on: "
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-comparison-page-options.php:246
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:246
+msgid "share on: "
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-grid.php:32
+msgid "Wishlist Page (Grid)"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-grid.php:59
+msgid "Number of columns to display in each row of the grid."
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-list.php:32
+msgid "Wishlist Page (List)"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-list.php:58
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-table.php:58
+msgid "Product Thumbnail Max Width"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-list.php:59
+msgid "Please note that this value is capped at 60% of the page width."
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-slider.php:32
+msgid "Wishlist Page (Slider)"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-slider.php:42
+msgid "Visit Global Slider Options"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-slider.php:43
+msgid "Manage Global Slider options"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-table.php:32
+msgid "Wishlist Page (Table)"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options-table.php:59
+msgid "Please note that this value is capped at 70% of the page width."
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:32
+msgid "Wishlist Page Options"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:57
+msgid "Wishlist Title Html Tag"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:82
+msgid "Wishlist Page top description"
+msgstr ""
+
+#: extra/includes/customiser/productive-plugin-customiser-withlist-page-options.php:128
+msgid "Set to \"0\" for full width."
+msgstr ""
+
+#: extra/includes/db/db_transactions_extra.php:50
+#: extra/includes/woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr ""
+
+#: extra/includes/db/db_transactions_extra.php:51
+#: extra/includes/woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr ""
+
+#: extra/includes/db/db_transactions_extra.php:53
+#: extra/includes/woocommerce/single-product/meta.php:34
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extra/includes/db/db_transactions_extra.php:54
+#: extra/includes/woocommerce/single-product/meta.php:36
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extra/includes/db/db_transactions_extra.php:60
+#: includes/common/render/partials/productive-render-functions-standard.php:380
+#: includes/common/render/partials/productive-render-functions-standard.php:457
+#: includes/common/render/partials/productive-render-functions-standard.php:838
+msgid "in stock"
+msgstr ""
+
+#: extra/includes/db/db_transactions_minicompare.php:78
+#: extra/includes/db/db_transactions_minicompare.php:103
+#: extra/includes/db/db_transactions_miniwishlist.php:78
+#: extra/includes/db/db_transactions_miniwishlist.php:103
+#: includes/common/db/db_transactions_minicart.php:125
+#: includes/common/db/db_transactions_minicart.php:152
+msgid "SKU: "
+msgstr ""
+
+#: extra/includes/db/db_transactions_minicompare.php:148 includes/start.php:181
+msgid "View Comparison"
+msgstr ""
+
+#: extra/includes/db/db_transactions_minicompare.php:160
+#: extra/includes/db/db_transactions_minicompare.php:161
+#: includes/common/render/partials/productive-render-functions-standard.php:650
+#: includes/common/render/partials/productive-render-functions-standard.php:651
+msgid "Clear Comparison"
+msgstr ""
+
+#: extra/includes/db/db_transactions_minicompare.php:165
+#: includes/common/render/partials/productive-render-functions-standard.php:655
+msgid "Remove all products from Comparison?"
+msgstr ""
+
+#: extra/includes/db/db_transactions_minicompare.php:168
+#: extra/includes/my-account/my-account-user-compare.php:182
+#: extra/includes/my-account/my-account-user-wishlist.php:184
+#: extra/includes/productive-list-table.php:228
+#: includes/common/my-account/my-account-user-compare.php:38
+#: includes/common/my-account/my-account-user-wishlist.php:38
+#: includes/common/productiveminds-commerce-options.php:754
+#: includes/common/render/partials/productive-render-functions-standard.php:178
+#: includes/common/render/partials/productive-render-functions-standard.php:658
+msgid "Cancel"
+msgstr ""
+
+#: extra/includes/db/db_transactions_minicompare.php:173
+#: includes/common/render/partials/productive-render-functions-standard.php:663
+msgid "Yes, Clear Comparison"
+msgstr ""
+
+#: extra/includes/db/db_transactions_minicompare.php:174
+#: includes/common/productiveminds-commerce-options.php:757
+#: includes/common/render/partials/productive-render-functions-standard.php:664
+msgid "Yes, Remove "
+msgstr ""
+
+#: extra/includes/db/db_transactions_miniwishlist.php:128
+#: includes/common/db/db_transactions_minicart.php:177
+#: includes/common/render/partials/productive-render-functions-standard.php:143
+msgid "Subtotal: "
+msgstr ""
+
+#: extra/includes/db/db_transactions_miniwishlist.php:133
+#: extra/includes/productive-list-table.php:216
+msgid "View Wishlist"
+msgstr ""
+
+#: extra/includes/extras/update-manager/class-productive-update-manager-plugin.php:267
+msgid " plugin license has not been activated on this website. Kindly "
+msgstr ""
+
+#: extra/includes/extras/update-manager/class-productive-update-manager-plugin.php:268
+msgid "activate your license here"
+msgstr ""
+
+#: extra/includes/extras/update-manager/class-productive-update-manager-plugin.php:269
+msgid "to ensure access to settings and updates for new versions."
+msgstr ""
+
+#: extra/includes/functions-extra.php:119 includes/standard/functions.php:90
+msgid "Compare list is full "
+msgstr ""
+
+#: extra/includes/functions-extra.php:120 includes/standard/functions.php:91
+msgid "(only "
+msgstr ""
+
+#: extra/includes/functions-extra.php:121 includes/standard/functions.php:92
+msgid "Remove one of the products in Compare, then try again."
+msgstr ""
+
+#: extra/includes/functions-extra.php:126 includes/standard/functions.php:97
+msgid "View cart"
+msgstr ""
+
+#: extra/includes/functions-extra.php:138 includes/standard/functions.php:107
+msgid ""
+"<div class=\"bolded\">Option Selection Required</div>To add this product to "
+"your "
+msgstr ""
+
+#: extra/includes/functions-extra.php:140 includes/standard/functions.php:109
+msgid ", please visit the product page and select the required options."
+msgstr ""
+
+#: extra/includes/functions-extra.php:152 includes/standard/functions.php:121
+msgid " is already in your "
+msgstr ""
+
+#: extra/includes/functions-extra.php:153 includes/standard/functions.php:122
+msgid " is already in your Compare List"
+msgstr ""
+
+#: extra/includes/functions-extra.php:154 includes/standard/functions.php:123
+msgid " has been successfully added to Compare list"
+msgstr ""
+
+#: extra/includes/functions-extra.php:155 includes/standard/functions.php:124
+msgid "Selected item(s) were successfully removed"
+msgstr ""
+
+#: extra/includes/functions-extra.php:156 includes/standard/functions.php:125
+msgid " has been removed from "
+msgstr ""
+
+#: extra/includes/functions-extra.php:157 includes/standard/functions.php:126
+msgid " has been removed from Compare list"
+msgstr ""
+
+#: extra/includes/functions-extra.php:172 includes/standard/functions.php:141
+msgid "Quantity must be greater than 0. Please correct and try again."
+msgstr ""
+
+#: extra/includes/functions-extra.php:173 includes/standard/functions.php:142
+msgid "Product Page"
+msgstr ""
+
+#: extra/includes/functions-extra.php:176 includes/standard/functions.php:145
+msgid "Please select some product options before adding this product to your "
+msgstr ""
+
+#: extra/includes/functions-extra.php:178 includes/standard/functions.php:147
+msgid ""
+"Please select some product options before adding this product to your "
+"Comparison"
+msgstr ""
+
+#: extra/includes/functions-extra.php:179 includes/standard/functions.php:148
+msgid ""
+"<div class=\"bolded\">Option Selection Required</div>Visit the product page "
+"to choose product options and add this item to your Comparison."
+msgstr ""
+
+#: extra/includes/module/minicompare.php:117
+#: extra/includes/module/miniwishlist.php:105
+#: extra/includes/user-engagements-loop-extra.php:302
+#: includes/common/module/minicart.php:103
+#: includes/common/user-engagements.php:197
+#: includes/common/user-engagements.php:242
+msgid "Close Overlay"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:91
+msgid "Comparisons"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:93
+msgid "View and manage your Comparisons and saved products."
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:97
+msgid "Add a New Comparison"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:99
+#: extra/includes/my-account/my-account-user-wishlist.php:99
+msgid "Add New"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:130
+#: extra/includes/my-account/my-account-user-wishlist.php:130
+msgid "public"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:132
+#: extra/includes/my-account/my-account-user-wishlist.php:132
+msgid "private"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:136
+msgid "Activate Comparison"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:138
+msgid "Visit Comparison"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:140
+#: extra/includes/my-account/my-account-user-wishlist.php:140
+msgid ", active"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:145
+#: extra/includes/my-account/my-account-user-wishlist.php:145
+msgid " items"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:155
+msgid "Edit Comparison"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:165
+msgid "Delete Comparison"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:174
+#: extra/includes/my-account/my-account-user-wishlist.php:167
+#: extra/includes/my-account/my-account-user-wishlist.php:176
+msgid "Delete "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:174
+#: extra/includes/my-account/my-account-user-wishlist.php:176
+#: extra/includes/my-account/my-account-user-wishlist.php:281
+#: includes/common/render/partials/productive-render-functions-standard.php:168
+#: includes/common/render/partials/productive-render-functions-standard.php:175
+msgid "?"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:177
+#: extra/includes/my-account/my-account-user-wishlist.php:179
+msgid "Select yes to delete now."
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:195
+#: extra/includes/my-account/my-account-user-wishlist.php:197
+msgid "products"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:228
+msgid "Add New Comparison"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:230
+#: extra/includes/my-account/my-account-user-wishlist.php:236
+msgid "Editing "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:234
+msgid "Move to a new Comparison "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:263
+msgid ""
+"Please enter the desired title for your Comparison and select a visibility "
+"option."
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:264
+msgid ""
+"Please enter the desired title and select a visibility option. Then, submit "
+"to create a new Comparison for, "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:270
+#: extra/includes/my-account/my-account-user-compare.php:271
+msgid "Comparison Title"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:275
+msgid "Who can view the Comparison?"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:278
+msgid "Public Comparison (viewable by anyone)"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:279
+msgid "Private Comparison (viewable only by me)"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:322
+msgid "Move to another Comparison"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:329
+msgid "Select a new Comparison for, "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-compare.php:372
+msgid "Move to a new Comparison instead"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:93
+msgid "View and manage "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:97
+msgid "Add a New "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:136
+msgid "Activate "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:138
+msgid "Visit "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:157
+#: includes/common/render/productive-render-wishlist-list.php:401
+msgid "Edit "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:200
+msgid "SubTotal"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:234
+msgid "Add New "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:240
+msgid "Move to a new  "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:269
+#: includes/common/render/productive-render-wishlist-list.php:408
+msgid "Please enter the desired title for the "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:269
+msgid " and select a visibility option."
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:270
+msgid ""
+"Please enter the desired title and select a visibility option. Then, submit "
+"to create a new "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:270
+#: extra/includes/my-account/my-account-user-wishlist.php:335
+msgid " for, "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:276
+#: extra/includes/my-account/my-account-user-wishlist.php:277
+#: includes/common/render/productive-render-wishlist-list.php:401
+#: includes/common/render/productive-render-wishlist-list.php:413
+#: includes/common/render/productive-render-wishlist-list.php:414
+msgid " Title"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:281
+msgid "Who can view the "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:284
+msgid "Public (viewable by anyone)"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:285
+msgid "Private (viewable only by me)"
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:328
+msgid "Move to another "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:335
+msgid "Select a new , "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:378
+msgid "Move to a new "
+msgstr ""
+
+#: extra/includes/my-account/my-account-user-wishlist.php:378
+msgid " instead"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:34
+msgid "Wishlists"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:52
+msgid "Wishlist Code"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:53
+msgid "User"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:54
+msgid "Visibility"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:55
+msgid "Status"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:189
+msgid "Select item"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:200
+msgid "No submission to display"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:220
+msgid "Delete Wishlist"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:225
+msgid "DELETE?"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:232
+msgid "Yes, Delete"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:242
+msgid "Website Visitor"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:257
+msgid "View Profile"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:269
+msgid "Public"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:271
+msgid "Private"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:276
+msgid "Active"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:278
+msgid "Inactive"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:283
+msgid "Sharable"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:285
+msgid "Non sharable"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:301
+msgid "Delete Permanently"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:381
+msgid " items successful marked as Read"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:387
+msgid "Read"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:399
+msgid " items could not be marked as Read"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:413
+msgid " items successful marked as New"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:419
+msgid "New"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:432
+msgid " items could not be marked as New"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:445
+msgid " items successful deleted"
+msgstr ""
+
+#: extra/includes/productive-list-table.php:463
+msgid " items could not be deleted"
+msgstr ""
+
+#: extra/includes/productiveminds-commerce-options-extra.php:40
+msgid "Download Elementor Templates"
+msgstr ""
+
+#: extra/includes/user-engagements-loop-extra.php:80
+#: extra/includes/user-engagements-loop-extra.php:86
+#: includes/standard/user-engagements-loop.php:53
+#: includes/standard/user-engagements-loop.php:59
+msgid "Compare "
+msgstr ""
+
+#: extra/includes/user-engagements-loop-extra.php:90
+#: extra/includes/user-engagements-loop-extra.php:94
+msgid "Quick view "
+msgstr ""
+
+#: extra/includes/user-engagements-loop-extra.php:295
+msgid "Product details"
+msgstr ""
+
+#: extra/includes/woocommerce/single-product/add-to-cart/grouped.php:53
+msgid "Buy one of this item"
+msgstr ""
+
+#: extra/includes/woocommerce/single-product/rating.php:38
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: global-settings.php:46 global-settings.php:78
+msgid "Product not found, try again later."
+msgstr ""
+
+#: global-settings.php:47 global-settings.php:59 global-settings.php:79
+#: global-settings.php:91
+msgid "Error completing your request, please try again later"
+msgstr ""
+
+#: global-settings.php:52 global-settings.php:84
+msgid "Selected item has been successfully removed"
+msgstr ""
+
+#: global-settings.php:53 global-settings.php:85
+msgid "Error removing selected item(s), please try again later"
+msgstr ""
+
+#: global-settings.php:58 global-settings.php:90
+msgid " has been successfully deleted"
+msgstr ""
+
+#: global-settings.php:65 global-settings.php:97
+msgid "Selected item(s) were successfully added to Cart"
+msgstr ""
+
+#: global-settings.php:66 global-settings.php:98
+msgid "All available items were successfully added to Cart"
+msgstr ""
+
+#: global-settings.php:67 global-settings.php:99
+msgid "Error adding selected item(s) to Cart, please try again later"
+msgstr ""
+
+#: global-settings.php:76
+msgid " has been successfully added to Compare List"
+msgstr ""
+
+#: global-settings.php:77
+msgid "Unable to save Compare, try again later."
+msgstr ""
+
+#: global-settings.php:101
+msgid "About"
+msgstr ""
+
+#: global-settings.php:102
+msgid "Users Wishlists"
+msgstr ""
+
+#: global-settings.php:103
+msgid "All Wishlists"
+msgstr ""
+
+#: global-settings.php:104
+msgid "Visitors Wishlist"
+msgstr ""
+
+#: global-settings.php:105
+msgid "Registered Users Wishlist"
+msgstr ""
+
+#: global-settings.php:108
+#: includes/common/accounts-and-feature-access-options.php:22
+#: includes/common/productiveminds-commerce-options.php:1018
+#: includes/common/productiveminds-commerce-options.php:1019
+msgid "Comparison"
+msgstr ""
+
+#: global-settings.php:109
+msgid "Quick View"
+msgstr ""
+
+#: global-settings.php:110
+msgid "Mini-Cart"
+msgstr ""
+
+#: global-settings.php:111 includes/common/db/db_transactions_minicart.php:183
+msgid "Checkout"
+msgstr ""
+
+#: global-settings.php:112
+msgid "Mini-Wishlist"
+msgstr ""
+
+#: global-settings.php:113
+msgid "Mini-Comparison"
+msgstr ""
+
+#: global-settings.php:115
+msgid "Free vs Pro"
+msgstr ""
+
+#: global-settings.php:116
+msgid "License"
+msgstr ""
+
+#: global-settings.php:118
+msgid "product-wishlist"
+msgstr ""
+
+#: global-settings.php:121
+msgid "product-comparison"
+msgstr ""
+
+#: global-settings.php:122
+msgid "Product Comparison"
+msgstr ""
+
+#: global-settings.php:134
+msgid "user-wishlist"
+msgstr ""
+
+#: global-settings.php:141
+msgid "user-comparison"
+msgstr ""
+
+#: global-settings.php:150
+msgid "Your Comparison list is currently empty"
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:55
+#: includes/common/accounts-and-feature-access-options.php:66
+#: includes/common/accounts-and-feature-access-options.php:92
+#: includes/common/accounts-and-feature-access-options.php:139
+#: includes/common/accounts-and-feature-access-options.php:151
+#: includes/common/accounts-and-feature-access-options.php:175
+msgid "Please log in to "
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:56
+#: includes/common/accounts-and-feature-access-options.php:57
+msgid "access and manage your "
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:67
+#: includes/common/accounts-and-feature-access-options.php:68
+#: includes/common/accounts-and-feature-access-options.php:93
+#: includes/common/accounts-and-feature-access-options.php:94
+msgid "save and manage your "
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:70
+#: includes/common/accounts-and-feature-access-options.php:96
+msgid " from any device. Your guest "
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:72
+#: includes/common/accounts-and-feature-access-options.php:98
+msgid " is temporary and accessible only on this browser."
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:102
+msgid "manage your "
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:103
+msgid "Manage your "
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:140
+#: includes/common/accounts-and-feature-access-options.php:141
+msgid "access and manage your Comparison"
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:152
+#: includes/common/accounts-and-feature-access-options.php:153
+#: includes/common/accounts-and-feature-access-options.php:176
+msgid "save and manage your Comparison"
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:155
+#: includes/common/accounts-and-feature-access-options.php:179
+msgid ""
+" from any device. Your guest Comparison list are temporary and accessible "
+"only on this browser."
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:177
+msgid "save and manage your Comparisons"
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:183
+msgid "manage your Comparisons"
+msgstr ""
+
+#: includes/common/accounts-and-feature-access-options.php:184
+msgid "Manage your Comparison"
+msgstr ""
+
+#: includes/common/db/db_transactions_admin.php:81
+msgid "Error completing your request"
+msgstr ""
+
+#: includes/common/db/db_transactions_admin.php:87
+msgid "Item Deleted successfully"
+msgstr ""
+
+#: includes/common/db/db_transactions_admin.php:92
+msgid "Unable to process request, check and try again"
+msgstr ""
+
+#: includes/common/db/db_transactions_minicart.php:182
+msgid "Go To Cart"
+msgstr ""
+
+#: includes/common/my-account/my-account-user-compare.php:23
+#: includes/common/productiveminds-commerce-options.php:737
+msgid "Remove from Comparison"
+msgstr ""
+
+#: includes/common/my-account/my-account-user-compare.php:30
+#: includes/common/my-account/my-account-user-wishlist.php:30
+msgid "You are about to remove "
+msgstr ""
+
+#: includes/common/my-account/my-account-user-wishlist.php:23
+#: includes/common/productiveminds-commerce-options.php:522
+#: includes/common/render/partials/productive-render-functions-standard.php:164
+msgid "Remove from "
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:32
+msgid "Icon Only"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:33
+msgid "Text Only"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:34
+msgid "Both Icon and Text"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:98
+msgid "Popup Header"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:99
+msgid "Popup Body"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:108
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:109
+msgid "Shopping Bag"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:117
+msgid "Remove Automatically"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:136
+msgid "Wishlist Outlined"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:137
+msgid "Wishlist Filled"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:147
+msgid "Exchange"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:148
+msgid "Refresh"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:486
+#: includes/common/productiveminds-commerce-options.php:487
+msgid "My "
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:486
+#: includes/common/productiveminds-commerce-options.php:487
+msgid " on "
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:522
+#: includes/common/productiveminds-commerce-options.php:737
+#: includes/common/productiveminds-commerce-options.php:761
+msgid "Remove"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:706
+#: includes/common/productiveminds-commerce-options.php:707
+msgid "My Compare List "
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:752
+msgid "Remove from Comparison?"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:788
+#: includes/common/productiveminds-commerce-options.php:797
+msgid "Add to cart"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:838
+msgid "-"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:844
+msgid "No review yet"
+msgstr ""
+
+#: includes/common/productiveminds-commerce-options.php:1118
+#: includes/common/productiveminds-commerce-options.php:1119
+msgid "Cart"
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:132
+msgid " units"
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:135
+msgid "Product"
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:137
+#: includes/common/render/partials/productive-render-functions-standard.php:641
+msgid "Products"
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:156
+#: includes/common/render/partials/productive-render-functions-standard.php:157
+msgid "Add All to Cart"
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:167
+#: includes/common/render/partials/productive-render-functions-standard.php:168
+msgid "Clear "
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:175
+msgid "Remove all products from "
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:183
+#: includes/common/render/partials/productive-render-functions-standard.php:184
+msgid "Yes, clear "
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:367
+#: includes/common/render/partials/productive-render-functions-standard.php:419
+#: includes/common/render/partials/productive-render-functions-standard.php:1005
+msgid "Sale!"
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:386
+#: includes/common/render/partials/productive-render-functions-standard.php:463
+#: includes/common/render/partials/productive-render-functions-standard.php:844
+msgid "Out of stock"
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:639
+msgid "Only "
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:639
+msgid " product found. Add more products to compare, then try again."
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:641
+msgid "Comparing "
+msgstr ""
+
+#: includes/common/render/partials/productive-render-functions-standard.php:750
+msgid " Availability"
+msgstr ""
+
+#: includes/common/render/productive-render-wishlist-list.php:413
+msgid "New "
+msgstr ""
+
+#: includes/common/render/productive-render-wishlist-list.php:414
+msgid "Add "
+msgstr ""
+
+#: includes/standard/functions.php:91
+msgid " at a time, please). "
+msgstr ""
+
+#: includes/start.php:167
+msgid " Your "
+msgstr ""
+
+#: includes/start.php:169
+msgid " has been successfully added to "
+msgstr ""
+
+#: includes/start.php:170
+msgid "Unable to save "
+msgstr ""
+
+#: includes/start.php:170
+msgid ", try again later."
+msgstr ""
+
+#: includes/start.php:172
+msgid "Attempting to view a private "
+msgstr ""
+
+#: includes/start.php:172
+msgid ". Please login to continue, if you have access permission."
+msgstr ""
+
+#: includes/start.php:173
+msgid ""
+"Attempting to view a private Comparison list. Please login to continue, if "
+"you have access permission."
+msgstr ""
+
+#: includes/start.php:174 includes/start.php:178
+msgid "Your "
+msgstr ""
+
+#: includes/start.php:174
+msgid " is currently empty. Please add some products and revisit this page."
+msgstr ""
+
+#: includes/start.php:175
+msgid ""
+"Nothing to compare. Please select two or more products to compare, then "
+"revisit this page."
+msgstr ""
+
+#: includes/start.php:176
+msgid "Add one or more items to compare."
+msgstr ""
+
+#: includes/start.php:177
+msgid "Your Cart is currently empty."
+msgstr ""
+
+#: includes/start.php:178
+msgid " is currently empty"
+msgstr ""
+
+#: includes/start.php:180
+msgid "View "
+msgstr ""
+
+#: includes/start.php:211
+msgid "Error deleting, please try again"
+msgstr ""
+
+#: includes/start.php:513
+msgid " plugin requires WooCommerce to operate. Please install "
+msgstr ""
+
+#: includes/start.php:514
+msgid "WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.productiveminds.com/product/productive-commerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrate WooCommerce Wishlist, Product Comparison, QuickView, MiniCart, and "
+"more features into your WordPress site with this plugin. It's easy to "
+"configure and performs well on WooCommerce websites of all levels."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "productiveminds.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.productiveminds.com"
+msgstr ""

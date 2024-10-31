@@ -1,0 +1,65 @@
+
+== Changelog ==
+
+= v1.1.0, released on 2023-10-21st =
+- (compatibility) : Updated and verified compatibility with WordPress 6.3.2.
+- (feature) : Introduced SEO-friendly URLs for both Wishlist and Comparison pages, enhancing usability and shareability.
+- (feature) : Added the option to customize product field displays for both Wishlist and Comparison pages.
+- (improvement) : Fully revamped the Quick View Feature, integrating WooCommerce tools for increased consistency.
+- (feature) : Launched the MiniCart to enhance the shopping experience.
+- (feature) : Unveiled the Mini-Wishlist for an optimized Wishlist user experience.
+- (improvement) : Redesigned product listings on both Wishlist and Comparison pages for better user engagement.
+- (improvement) : Product boxes now adopt the current theme’s styling by default, with an option for customization.
+- (feature) : Offered multiple layout options for the Wishlist page, including Sliders, Grid, and List views.
+- (feature) : Introduced Elementor widgets for added design flexibility and feature customization.
+- (feature) : Unveiled a user-friendly layout with various design choices for the Comparison page.
+- (feature) : Added the feature to share the Comparison page.
+- (improvement) : "Add to Cart" actions on Wishlist and Comparison pages are now aligned with WooCommerce settings and event triggers.
+- (improvement) : Introduced a prompt for users to decide between removing or retaining a product being added to the cart from the Wishlist page.
+- (improvement) : Added the ability to display or hide the “Add to Cart” button on the Comparison page.
+- (improvement) : Enhanced user experience in the Quick View popup.
+- (improvement) : Refined entrance/exit animations for popups across the plugin.
+- (improvement) : Implemented improved accessibility for better user interaction.
+- (improvement) : Boosted performance in the “Add to Wishlist” and “Add to Comparison” functionalities.
+- (feature) : Rolled out additional customization options across all features.
+
+= v1.0.8, released on 2023-08-02 =
+- (fix) : Addressed bug following regression tests
+
+= v1.0.7, released on 2023-08-01 =
+- (compatibility) : Updated and verified compatibility with WordPress 6.2.2.
+- (feature) : Introduced "Productive Global" – a framework designed to enhance plugin performance.
+- (improvement) : Implemented several style optimizations for improved user experience.
+- (fix) : Addressed minor bug fixes.
+
+= v1.0.5, released on 2023-03-10 =
+- (feature) : Configure column count per row on Wishlist page.
+- (feature) : Set limit for simultaneous product comparisons by users.
+- (feature) : Address repeated product additions to Wishlist or Compare list: options to either remove or notify.
+- (improvement) : Enhanced popup displays for smaller screens.
+- (improvement) : Broad improvements and performance enhancements.
+- (fix) : Resolved minor bugs.
+
+= v1.0.4, released on 2023-03-07 =
+- (improvement) : Introduced a sleeker popup design.
+- (improvement) : Enhanced configurability for Wishlist, Compare, and Quick View, including options for popup footers.
+- (feature) : Choices include icons only, text only, or a combination. Configure text and icon sizes. Icons can be set to display on hover.
+- (feature) : In the Pro version, control popup entrance and exit from top, bottom, left, or right. Transition animations included.
+- (feature) : Pro version includes sliders for product image galleries.
+- (feature) : Added numerous features and performance enhancements.
+
+= v1.0.3, released on 2023-01-31 =
+- (improvement) : Addressed bugs and refined features.
+
+= v1.0.2, released on 2023-01-20 =
+- (improvement) : Addressed bugs and refined features.
+
+= v1.0.1, released on 2023-01-20 =
+- (release) : Officially launched on wordpress.org.
+
+= v0.0.1, released on 2023-01-16 =
+- (development) : Finalized features in preparation for initial release.
+- (improvements) : Implemented feedback from reviewers and made necessary enhancements.
+
+= v0.0.0, released on 2023-01-10 =
+- (development) : Submitted the initial version for review on wordpress.org.
